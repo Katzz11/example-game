@@ -28,7 +28,7 @@ To run the game, follow these steps:
 * Contact: Võõrastele ei ole vaja seda
 
 ## Materials used
-* Teacher's instructions? Probably... 
+* Õpetaja juhised? vist... 
 
 ## Credits
 * [pygame.org](https://www.pygame.org/news)
