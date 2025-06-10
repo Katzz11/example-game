@@ -1,7 +1,6 @@
 import pygame.font
 
 class Button:
-    # ei ole voimalik
     
     def __init__(self, game_settings, screen, msg):
         self.screen = screen
@@ -12,7 +11,6 @@ class Button:
         self.text_color = (255, 255, 255)
         self.font = pygame.font.SysFont(None, 46)
         
-        # ehitame nupu
         self.rect = pygame.Rect(0, 0, self.width, self.height)
         self.rect.center = self.screen_rect.center
         self.prepare_msg(msg)
