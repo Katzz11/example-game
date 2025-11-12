@@ -1,12 +1,12 @@
 # Bubble Bluster :gun:
-Ma vihkan seda mängu. 
+ 
 
 ## Facts about the game... :sparkles:
 * This is my first project in pygame.
 * This game took more time than it was supposed.
 
 ## Overview 🕶️
-Bubble Bluster is a simple game where you have to collect bubbles. If you don't understand it, then just press ALT+F4 on your keyboard :)
+Bubble Bluster is a simple game where you have to collect bubbles. 
 
 ### How to open the game :running_man:
 To run the game, follow these steps:
@@ -24,11 +24,10 @@ To run the game, follow these steps:
 
 * Name: Kata
 * Age: 18
-* School: Võõrastele ei ole vaja seda
-* Contact: Võõrastele ei ole vaja seda
+
 
 ## Materials used
-* Õpetaja juhised? vist... 
+* Õpetaja juhised
 
 ## Credits
 * [pygame.org](https://www.pygame.org/news)
